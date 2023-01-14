@@ -1,5 +1,4 @@
-# pico pad
-
+# Clack Pad
 a simple macro pad with a rotary encoder, an SPI SSD1306 128 x 64 0.96"  OLED display, WS2812 LEDs and of course 12 keyboard keys.
 
 **this repo is a really big mess and still a work in progress**
